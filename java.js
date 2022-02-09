@@ -12,7 +12,7 @@ const nom = document.getElementById('nom').value;
 const button = document.getElementById('button').value;
 
 
-alert('bonjour' +' '+nom+' '+' vous avez '+' '+age+' '+' et vous habitez à'+' '+adresse+' '+
+alert('bonjour' +' '+nom+' '+' vous avez '+' '+age+'ans'+' '+' et vous habitez à'+' '+adresse+' '+
 'votre adresse email est'+' '+email+' '+ 'vous etes un '+' '+homme+' '+'bienvenue dans mon site cliquer sur ok')
 }
 
